@@ -1,0 +1,43 @@
+/* Baner Section Styles */
+body{
+    margin: 0;
+    font-family: 'Work Sans'
+}
+.banner-container{
+    
+    background-image: url("images/banner/banner1.png");
+   height: 670px;
+  background-size: contain;
+  margin-bottom: 130px;
+}
+.banner{
+   
+    width: 40%;
+    float: right;
+   padding: 10% 5%;
+   text-align: end;
+
+}
+
+.banner-title{
+    line-height: 0.4;
+    font-size: 65px;
+    font-weight: bold;}
+.btn-warning{
+   background-color: #F15B22;
+   color: #FFFFFF;
+   border: none;
+   border-radius: 5px;
+   padding: 10px 15px;
+   font-size: 20px;
+}
+.main-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    padding: 0 5%;
+}
+h3{
+    font-size: 45px;
+}
