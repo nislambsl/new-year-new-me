@@ -41,3 +41,16 @@ body{
 h3{
     font-size: 45px;
 }
+
+/* service-part-styles */
+.service-hader{
+    text-align: center;
+}
+.service-items{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.service-item-hader{
+    font-size: 30px;
+}
